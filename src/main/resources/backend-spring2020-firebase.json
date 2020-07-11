@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "backend-spring2020",
+  "private_key_id": "58dab0997e7f879ad2a8897c18faa49ff6ec93a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPkj7RrlgVjbPK\nUTmlMYJui8s11x24jG9o65WQJ0xDYvzSdOSrIwtFW1UBsgPANUriGCY+sIM3FAUE\ni1zWRCVdmNUDgUwXQGdvRLaGOxVfBz7OVeoLSKcW8HliZil/eYaFW2Eh86yi3DJt\nm+KxDUCWqH0gDyxQHNEKG24VNXb5ZCGnVVixeHN7PvNrnHpPDVb0Y/FSmviXpvB+\nfmCaMu5c18p3QYn1XrcqWymQ3D7YwmxbUPEYwpxGoPQAQlXvhJ9cTmwvRoOWU+ir\nUbwRu0RxWixo3MgWDTClygqgLve1yAQVwbivFUYWcrjLzKbn1LnBRQFTJKwGscjN\n+TxSgftHAgMBAAECggEACkh5Q19vY6vQks8ah+Bx7SUKGwMbV9qHKEanYbnO1ozC\nevhwYGmUJxWRkxuC9UNb57G/G4JdA5blfRvWPGqJGpkVuLiMEKZGQkvzns2gjDvi\nnbi9mK1NenEi4I9crYqwveB7pojjdo669erSY8gFNkU/IQq1K8/EkSrBybcYnGga\nH6+Z4jHORx+39gdDimsDMguNwFthfA50tQcYisBQyCt5vBB3PFkcB1pVbjWreWFL\nrN4DtummwMzI3ikOjOnCvqEDZecEDKnkvxLPk+gRbWoWLQPO8cOZ5O9b83lsGcj5\nM20CuEaSwdnOpc98MUeHl5rsyKtnCjxMSCYXfAnhIQKBgQDFLJct3hQ/uemtp2E6\nkD9AR/bE3TYvavQ4x8w3/4jWYtLTOTDZGiCO+ULY4PspqjFwYTJgNWF+lv088lZs\ntL1f1UFEqUBa0+jcy2lHxfGFFIKkTjr5hVhHVPdEO2LOkHgaOPBZlvPuvV54Ao6x\nqlbm39DR0r3AJznNu+kgCm3i6QKBgQC6Z6tuBwBDaU821kVqoRs52ONsKdoM8O2T\no0qPeHogPWn5juEQJNmRpHoc9KVTn/Z511dczwRPnjZwikWIQ2DYUim7DXkgmKU3\nO+H7uoTZIfe7M0ixyuxXIBt63juMxluj0HsVubWgn57AbNkQI9+51ywssA7N5Zzt\n2Rrtzu4urwKBgCf1y4XONkhcA1HgVEIsLcV3UDnBo1Ok124Sf/7xWOgqCxQnyRCW\nzPZs6fFOV1iwV2ixKiZ5axLewt/xNTa+woqDi8DAlHxT6iOlTebv5OzVpUxrVmRv\nc96xB5PafUHj4ZNe6scdYr6FvnmP+x9iqE4OGiIMFcy1pm9dn/eQZYjRAoGBAIbe\nn4C6fAxKU9A/dHZUHtjZ/qKyHVyjraHW0gnAh8xv4w93u4vsvabNNLVipYQ+Bx3d\nGw7BkkLxHD6NLQYMijO6LwtyEiPtjgzKvRVfvONF2nKOBpjtU9cuGfPqe3e9xWxf\nWc88URfopfpgRyWQbz2NXB7xO6Tp74OARCWwRVFtAoGAPS0G17FUSpEEUuMy0AKX\nGMBoB4iQDg2Na5TbykLBrl7MYCRA7wse7l6K1Sdv89CyRnnqHbiB+JUvOmETj+HH\naaSOGiHlQ2xEG0YUrjeM0yNMnYheyyqTplbGa0Ib0MbhnfWFt5oO6vq3dFGXv7wS\nDSqjmWW3DfnSb3UhctO1XP8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ldirc@backend-spring2020.iam.gserviceaccount.com",
+  "client_id": "110369169355631032197",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ldirc%40backend-spring2020.iam.gserviceaccount.com"
+}
