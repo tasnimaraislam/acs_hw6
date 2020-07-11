@@ -17,6 +17,7 @@ import java.io.IOException;
 public class FileService {
     public boolean upload(MultipartFile file) {
 
+        // AWS_CREDINTIALS = from IAM user 
         BasicAWSCredentials credentials = new BasicAWSCredentials("AWS_CREDINTIALS", "AWS_CREDINTIALS");
         final AmazonS3 s3 = AmazonS3ClientBuilder.standard().withCredentials(new AWSStaticCredentialsProvider(credentials)).withRegion(Regions.US_EAST_2).build();
         try {
